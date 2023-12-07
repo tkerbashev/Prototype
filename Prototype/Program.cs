@@ -1,8 +1,8 @@
 ﻿using Prototype;
 
-Console.WriteLine( "Prototype Creational Design Pattern example" );
-Console.WriteLine("(This is the most basic implementation using a shallow copy)");
-Console.WriteLine();
+Console.WriteLine( "Prototype Creational Design Pattern example\n" );
+
+Console.WriteLine("(This is the most basic implementation using a shallow copy)\n");
 
 var characters = new List<Person>();
 
